@@ -6,6 +6,8 @@ LW3                                                                             
 You can view and run the full implementation here:
 👉 Colab Link: https://colab.research.google.com/drive/1leUAOiqRhOGnN6SpJtY3vx6aAUGOMcw0
 
+https://colab.research.google.com/drive/1aVdLRRzG6Olx0XuMG3mQb9Sv-i3RoJcN?usp=sharing
+
 🧠 Guide Questions
 Student Explanation & Reflection
 📉 Visualization & Overfitting
