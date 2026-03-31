@@ -4,7 +4,7 @@ LW3                                                                             
 🔗 Colab Notebook
 
 You can view and run the full implementation here:
-👉 Colab Link: https://colab.research.google.com/drive/1leUAOiqRhOGnN6SpJtY3vx6aAUGOMcw0
+👉 Colab Link: [https://colab.research.google.com/drive/1leUAOiqRhOGnN6SpJtY3vx6aAUGOMcw0](https://colab.research.google.com/drive/1aVdLRRzG6Olx0XuMG3mQb9Sv-i3RoJcN?usp=sharing)
 
 https://colab.research.google.com/drive/1aVdLRRzG6Olx0XuMG3mQb9Sv-i3RoJcN?usp=sharing
 
