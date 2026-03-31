@@ -30,6 +30,7 @@ We split the data to train the model using the training set and evaluate its per
 Q: What accuracy did your model achieve?
 The model achieved an accuracy of approximately (e.g., 85%–95%), depending on the dataset quality and training process.
 
+<img width="767" height="343" alt="image" src="https://github.com/user-attachments/assets/af657b57-2ff6-4d4e-8c01-77d50d005ca9" />
 
 
 Q: How did the number of images affect the model’s performance?
